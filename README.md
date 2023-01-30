@@ -1,2 +1,2 @@
 # Parkinsons_disease
- pytorch model for parkinsons disease model
+different ML models for parkinsons-disease dataset
